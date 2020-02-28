@@ -1,1 +1,43 @@
-(Uses cases will be added)
+1. Strangers Interaction
+  1.a. Walking by
+    - The figure will try to draw attention. (Follow, talk)
+  1.b. Card
+    - Screen will inform the user ("Unautharized card.").
+    - Figure might talk.
+  1.c. Message
+    - When the message button is pressed, voice record will start.
+    - Voice record will stop when stop button is pressed.
+    - The user will be informed. ("Your message is saved.")
+
+2. Lab User Interaction
+  2.a. Card
+    - The door will be opened.
+    - Student will be greeted.
+    - A recognizable face photograph will be saved.
+  2.b. Face
+    - When the face button is pressed, face scan will start.
+    - Magic mirror will display camera.
+    - Certain instructions maybe given through magic mirror.
+    - Face log will be saved.
+    - The door will be opened.
+  2.c. Magic mirror message
+    - Requested message will be registered to the lab computer by the user.
+    - Newly requested messages will be shown to the administrator.
+    - The messages which are verified by the administrator will be saved.
+  2.d. Door left open
+    - If the number of people in the lab can be determined at the moment:
+      Screen will be used for warning if many people are in the lab.
+      Speakers will be used to warn the user if moderate amount of people are in the lab.
+      Bell will be used if there are few people in the lab.
+    - If the number of people in the lab cannot be determined at the moment:
+      Bell will be used if there are few people in the lab.
+
+3. Administrator Interaction
+  3.a. Card registration
+  3.b. Face registration
+  3.c. Display logs
+  3.d. Lock the lab
+
+4. Power cut
+
+5. Error
