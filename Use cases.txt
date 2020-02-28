@@ -31,6 +31,7 @@
       Bell will be used if there are few people in the lab.
     - If the number of people in the lab cannot be determined at the moment:
       Bell will be used if there are few people in the lab.
+    - If the door remains open for a certain time, an information e-mail will be sent to defined e-mails.
 
 3. Administrator Interaction
   3.a. Card registration
