@@ -1,1 +1,3 @@
-The main purpose of the entrance system design is to improve the experience of both the users and the administrator. This will include authentication checks when someone attempts to enter the lab, logging entrance 
+The main purpose of the entrance system design is to improve the experience of both the users and the administrator. This will include authentication checks when someone attempts to enter the lab while logging the relevant data.
+An interface will be used in order to provide communication between the user and the system.
+An entity will be placed to make the interaction more enjoyable.
